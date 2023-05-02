@@ -17,6 +17,8 @@ for i in range(1001):
     if len(newlist) == 1:
         win_s.append("win")
 
-print((len(win_ds)/1000)*100)
-print((len(win_s)/1000)*100)
+Dontswitch = (len(win_ds)/1000)*100
+Switch = (len(win_s)/1000)*100
 
+print(f"{Dontswitch} % chance of winning the game when you don't switch")
+print(f"{Switch} % chance of winning the game when you switch")
