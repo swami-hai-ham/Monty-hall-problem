@@ -24,5 +24,5 @@ Results
 After running the simulation for 1001 trials, the code consistently produces results in the range of 33% for non-switching and 67% for switching, which confirms the theoretical probability of winning.
 
 
-
+modified this file to study git 
 
